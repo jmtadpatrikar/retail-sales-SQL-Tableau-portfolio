@@ -84,7 +84,7 @@ Retrieves the five presentation-ready result sets used Tableau Public Dashboard:
 
 
 ## Supporting SQL Results
-### Headline KPIs
+#### Headline KPIs
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L5-L10)
 
