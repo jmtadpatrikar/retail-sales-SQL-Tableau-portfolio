@@ -58,7 +58,7 @@ The scripts cover:
 ## Presentation Queries and Screenshots
 1. Headline KPIs
    [View the SQL query](sql/5_presentation_queries.sql#L5-L10)
-![Headline KPI query result](screenshots/01-headline-kpis.png)
+![Headline KPI query result](screenshots/1-headline-kpis.png)
 
 ## Tableau dashboard
 
