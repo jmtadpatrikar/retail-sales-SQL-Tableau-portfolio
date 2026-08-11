@@ -8,7 +8,7 @@ This project demonstrates practical SQL skills through a retail sales dataset. I
 
 ## Dataset
 
-This project uses the [<Retail Dataset> on Kaggle]([https://www.kaggle.com/datasets/<creator>/<dataset-slug>](https://www.kaggle.com/datasets/matteo2002/retail-dataset)).
+This project uses the [Retail Dataset on Kaggle]([https://www.kaggle.com/datasets/<creator>/<dataset-slug>](https://www.kaggle.com/datasets/matteo2002/retail-dataset)).
 
 - **Source:** Kaggle
 - **Accessed:** 11 August 2026
