@@ -54,9 +54,12 @@ Retrieves the five presentation-ready result sets used Tableau Public Dashboard:
 - Business analysis
 - MySQL
 
-## Tableau Interactive Dashboard
+## 📊 Explore the interactive Tableau dashboard
 
-[Open the interative Tableau Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+> Explore retail revenue, monthly trends, category and product performance, and customer-type comparisons.
+
+[**Open the interactive Tableau dashboard →**](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Key insights
 
