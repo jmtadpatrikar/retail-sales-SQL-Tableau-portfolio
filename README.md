@@ -91,28 +91,28 @@ Retrieves the five presentation-ready result sets used Tableau Public Dashboard:
 [Open the Headline KPI screenshot](Screenshots/1-headline-kpis.png)
 
 
-### Monthly sales trends
+#### Monthly sales trends
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L13-L19)
 
 [Open the Monthly Sales Trends screenshot](Screenshots/2-monthly-sales-trends.png)
 
 
-### Category performance
+#### Category performance
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L22-L28)
 
 [Open the Category Performance screenshot](Screenshots/3-category-performance.png)
 
 
-### Product performance
+#### Product performance
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L31-L38)
 
 [Open the Product Performance screenshot](Screenshots/4-product-performance.png)
 
 
-### Customer-type comparison
+#### Customer-type comparison
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L41-L47)
 
