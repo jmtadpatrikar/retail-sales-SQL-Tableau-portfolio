@@ -38,9 +38,19 @@ The scripts cover:
 
 ## Key insights
 
-- [One finding from your analysis]
-- [A second finding]
-- [A third finding]
+- The cleaned dataset covers 1 January 2014 to 30 December 2015, with 33,499 invoices.
+
+- Exact duplicate invoice-item rows were removed during cleaning: 5,426 rows were excluded while valid repeated invoice/product purchases were retained.
+
+- Total revenue was 9,307,314.40 in the dataset’s currency, from 5,261,943 units, with an average invoice value of 277.84.
+
+- November 2015 was the strongest sales month, generating 1,176,130.79 in revenue.
+
+- Kitchen & Dining was the highest-revenue category, contributing 2,253,891.45 in revenue.
+
+- Wholesale customers generated 73.6% of total revenue, making them the largest customer segment by sales value.
+
+- Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
 
 ## Tableau dashboard
 
