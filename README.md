@@ -105,7 +105,14 @@ The scripts cover:
 
 [Open the Customer-Type Comparison screenshot](Screenshots/5-customer-type-comparison.png)
 
+## How to run the project
 
+1. Import the raw CSV files into MySQL Workbench as the four required tables.
+2. Run 1_import_and_data_quality.sql.
+3. Run 2_creating_usable_views.sql.
+4. Run 3_business_analysis.sql.
+5. Run 4_dashboard_queries.sql.
+6. Run 5_presentation_queries.sql to produce the results used in the presentation screenshots.
 
 ## Author
 
