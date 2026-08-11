@@ -21,13 +21,15 @@ This project demonstrates practical SQL skills through a retail sales dataset. I
 
 The scripts cover:
 
-1. [Documents the raw imported tables and performs data-quality checks, including table and column validation, row counts, duplicate checks, invoice consistency, missing or invalid values, and line-total verification.]
-2. 
-3. 
-4. 
-5.
-6. 
+1. Documents the raw imported tables and performs data-quality checks, including table and column validation, row counts, duplicate checks, invoice consistency, missing or invalid values, and line-total verification.
+ 
+2. Creates cleaned analytical views while preserving the original raw tables. It removes exact invoice-item duplicates, builds invoice-level headers, and combines sales, customer, and product information into reusable views.
 
+3. Answers key retail business questions: sales date coverage, overall revenue and invoice scale, monthly trends, category and product performance, customer analysis, and highest-revenue weekdays.
+
+4. Creates Tableau-ready dashboard views for headline KPIs, monthly trends, category performance, product performance, and customer-type comparisons.
+
+5. Retrieves the five presentation-ready result sets used Tableau Public Dashboard: headline KPIs, monthly sales trends, category performance, product performance, and customer-type comparisons.
 
 ## Skills demonstrated
 
