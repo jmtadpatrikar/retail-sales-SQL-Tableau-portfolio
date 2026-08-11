@@ -34,16 +34,16 @@ What each script covers:
 [1_import_and_data_quality.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/1_import_and_data_quality.sql)
 Documents the raw imported tables and performs data-quality checks, including table and column validation, row counts, duplicate checks, invoice consistency, missing or invalid values, and line-total verification.
  
-2_creating_usable_views.sql
+[2_creating_usable_views.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/2_creating_usable_views.sql)
 Creates cleaned analytical views while preserving the original raw tables. It removes exact invoice-item duplicates, builds invoice-level headers, and combines sales, customer, and product information into reusable views.
 
-3_business_analysis.sql
+[3_business_analysis.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/3_business_analysis.sql)
 Answers key retail business questions: sales date coverage, overall revenue and invoice scale, monthly trends, category and product performance, customer analysis, and highest-revenue weekdays.
 
-4_dashboard_queries.sql
+[4_dashboard_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/4_dashboard_queries.sql)
 Creates Tableau-ready dashboard views for headline KPIs, monthly trends, category performance, product performance, and customer-type comparisons.
 
-5_presentation_queries.sql
+[5_presentation_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/5_presentation_queries.sql)
 Retrieves the five presentation-ready result sets used Tableau Public Dashboard: headline KPIs, monthly sales trends, category performance, product performance, and customer-type comparisons.
 
 ## Skills demonstrated
