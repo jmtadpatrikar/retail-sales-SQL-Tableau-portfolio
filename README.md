@@ -53,7 +53,7 @@ Retrieves the five presentation-ready result sets used Tableau Public Dashboard:
 
 ## Skills demonstrated
 
-- Data cleaning
+- Data cleaning/visualisation
 - Aggregations and grouping
 - Joins
 - Business analysis
