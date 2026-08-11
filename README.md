@@ -31,7 +31,7 @@ This project uses the [Retail Dataset on Kaggle](https://www.kaggle.com/datasets
 
 What each script covers:
 
-1_import_and_data_quality.sql
+[1_import_and_data_quality.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/1_import_and_data_quality.sql)
 Documents the raw imported tables and performs data-quality checks, including table and column validation, row counts, duplicate checks, invoice consistency, missing or invalid values, and line-total verification.
  
 2_creating_usable_views.sql
