@@ -6,6 +6,16 @@ A SQL portfolio project that analyzes retail sales data using MySQL.
 
 This project demonstrates practical SQL skills through a retail sales dataset. It covers data cleaning, exploratory analysis, and business-focused queries.
 
+## Dataset
+
+This project uses the [<Retail Dataset> on Kaggle]([https://www.kaggle.com/datasets/<creator>/<dataset-slug>](https://www.kaggle.com/datasets/matteo2002/retail-dataset)).
+
+- **Source:** Kaggle
+- **Accessed:** 11 August 2026
+- **Tables used:** `customers`, `products`, `purchases`, and `invoice_items`
+- **Data availability:** The raw dataset is not included in this repository. Download it from Kaggle, then import the files into MySQL before running the SQL scripts.
+- **License:** Refer to the dataset page for its usage terms.
+
 ## Tools used
 
 - MySQL
