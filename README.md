@@ -83,7 +83,10 @@ Retrieves the five presentation-ready result sets used Tableau Public Dashboard:
 - Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
 
 
-## Supporting SQL Results
+<details>
+<summary><strong>Supporting SQL results and screenshots</strong></summary>
+
+<br>
 #### Headline KPIs
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L5-L10)
@@ -117,6 +120,7 @@ Retrieves the five presentation-ready result sets used Tableau Public Dashboard:
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L41-L47)
 
 [Open the Customer-Type Comparison screenshot](Screenshots/5-customer-type-comparison.png)
+</details>
 
 ## How to run the project
 
