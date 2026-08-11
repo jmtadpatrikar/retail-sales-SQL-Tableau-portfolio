@@ -63,9 +63,9 @@ The scripts cover:
 https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/394652b0b2ba3fd80d0b22bdc80dbaa1091f2d8b/sql/5_presentation_queries.sql#L5-L10
 
 
-## Tableau dashboard
+## Tableau Interactive Dashboard
 
-[https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+[Open the interative Tableau Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Author
 
