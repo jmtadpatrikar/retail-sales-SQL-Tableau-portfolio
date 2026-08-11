@@ -65,35 +65,35 @@ The scripts cover:
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L5-L10)
 
-![Headline KPI query result](Screenshots/1-headline-kpis.png)
+[Open the Headline KPI screenshot](Screenshots/1-headline-kpis.png)
 
 
 ### Monthly sales trends
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L13-L19)
 
-![Monthly sales trends query result](Screenshots/2-monthly-sales-trends.png)
+[Open the Monthly Sales Trends screenshot](Screenshots/2-monthly-sales-trends.png)
 
 
 ### Category performance
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L22-L28)
 
-![Category performance query result](Screenshots/3-category-performance.png)
+[Open the Category Performance screenshot](Screenshots/3-category-performance.png)
 
 
 ### Product performance
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L31-L38)
 
-![Product performance query result](Screenshots/4-product-performance.png)
+[Open the Product Performance screenshot](Screenshots/4-product-performance.png)
 
 
 ### Customer-type comparison
 
 [View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L41-L47)
 
-![Customer-type comparison query result](Screenshots/5-customer-type-comparison.png)
+[Open the Customer-Type Comparison screenshot](Screenshots/5-customer-type-comparison.png)
 
 
 
