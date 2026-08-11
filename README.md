@@ -1,6 +1,6 @@
 # MySQL Retail Sales Analysis
 
-A SQL portfolio project that analyzes retail sales data using MySQL.
+A SQL portfolio project that analyses retail sales data using MySQL.
 
 ## Project overview
 
