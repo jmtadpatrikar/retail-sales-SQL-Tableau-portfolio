@@ -41,7 +41,7 @@ What each script covers:
 — answers questions on sales trends, categories, products, customers, and weekdays.
 
 [4_dashboard_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/4_dashboard_queries.sql)
-- creates Tableau-ready views for KPIs and performance comparisons.
+— creates Tableau-ready views for KPIs and performance comparisons.
 
 [5_presentation_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/5_presentation_queries.sql)
 — returns the five final result sets used in the dashboard screenshots.
