@@ -29,17 +29,22 @@ This project uses the [Retail Dataset on Kaggle](https://www.kaggle.com/datasets
 
 ## SQL workflow
 
-The scripts cover:
+What each script covers:
 
-1. Documents the raw imported tables and performs data-quality checks, including table and column validation, row counts, duplicate checks, invoice consistency, missing or invalid values, and line-total verification.
+1_import_and_data_quality.sql
+Documents the raw imported tables and performs data-quality checks, including table and column validation, row counts, duplicate checks, invoice consistency, missing or invalid values, and line-total verification.
  
-2. Creates cleaned analytical views while preserving the original raw tables. It removes exact invoice-item duplicates, builds invoice-level headers, and combines sales, customer, and product information into reusable views.
+2_creating_usable_views.sql
+Creates cleaned analytical views while preserving the original raw tables. It removes exact invoice-item duplicates, builds invoice-level headers, and combines sales, customer, and product information into reusable views.
 
-3. Answers key retail business questions: sales date coverage, overall revenue and invoice scale, monthly trends, category and product performance, customer analysis, and highest-revenue weekdays.
+3_business_analysis.sql
+Answers key retail business questions: sales date coverage, overall revenue and invoice scale, monthly trends, category and product performance, customer analysis, and highest-revenue weekdays.
 
-4. Creates Tableau-ready dashboard views for headline KPIs, monthly trends, category performance, product performance, and customer-type comparisons.
+4_dashboard_queries.sql
+Creates Tableau-ready dashboard views for headline KPIs, monthly trends, category performance, product performance, and customer-type comparisons.
 
-5. Retrieves the five presentation-ready result sets used Tableau Public Dashboard: headline KPIs, monthly sales trends, category performance, product performance, and customer-type comparisons.
+5_presentation_queries.sql
+Retrieves the five presentation-ready result sets used Tableau Public Dashboard: headline KPIs, monthly sales trends, category performance, product performance, and customer-type comparisons.
 
 ## Skills demonstrated
 
