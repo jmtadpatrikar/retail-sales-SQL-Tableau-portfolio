@@ -39,6 +39,10 @@ The scripts cover:
 - Business analysis
 - MySQL
 
+## Tableau Interactive Dashboard
+
+[Open the interative Tableau Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Key insights
 
 - The cleaned dataset covers 1 January 2014 to 30 December 2015, with 33,499 invoices.
@@ -54,10 +58,6 @@ The scripts cover:
 - Wholesale customers generated 73.6% of total revenue, making them the largest customer segment by sales value.
 
 - Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
-
-## Tableau Interactive Dashboard
-
-[Open the interative Tableau Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Supporting SQL Results
