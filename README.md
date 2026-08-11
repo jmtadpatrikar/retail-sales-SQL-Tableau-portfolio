@@ -57,9 +57,11 @@ The scripts cover:
 
 ## Presentation Queries and Screenshots
 1. Headline KPIs
-   [View the SQL query](sql/5_presentation_queries.sql#L5-L10](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/24016763840c3db6a19f8368551724073099f981/sql/5_presentation_queries.sql#L5-L10))
-   
+   [View the SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/394652b0b2ba3fd80d0b22bdc80dbaa1091f2d8b/sql/5_presentation_queries.sql#L5-L10)
 ![Headline KPI query result](Screenshots/1-headline-kpis.png)
+
+https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/394652b0b2ba3fd80d0b22bdc80dbaa1091f2d8b/sql/5_presentation_queries.sql#L5-L10
+
 
 ## Tableau dashboard
 
