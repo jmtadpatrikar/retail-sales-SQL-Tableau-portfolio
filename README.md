@@ -55,15 +55,47 @@ The scripts cover:
 
 - Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
 
-## Presentation Queries and Screenshots
-1. Headline KPIs
-   [View the SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/394652b0b2ba3fd80d0b22bdc80dbaa1091f2d8b/sql/5_presentation_queries.sql#L5-L10)
-![Headline KPI query result](Screenshots/1-headline-kpis.png)
-
-
 ## Tableau Interactive Dashboard
 
 [Open the interative Tableau Dashboard](https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+## Supporting SQL Results
+### Headline KPIs
+
+[View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L5-L10)
+
+![Headline KPI query result](Screenshots/1-headline-kpis.png)
+
+
+### Monthly sales trends
+
+[View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L13-L19)
+
+![Monthly sales trends query result](Screenshots/2-monthly-sales-trends.png)
+
+
+### Category performance
+
+[View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L22-L28)
+
+![Category performance query result](Screenshots/3-category-performance.png)
+
+
+### Product performance
+
+[View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L31-L38)
+
+![Product performance query result](Screenshots/4-product-performance.png)
+
+
+### Customer-type comparison
+
+[View the highlighted SQL query](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/main/sql/5_presentation_queries.sql#L41-L47)
+
+![Customer-type comparison query result](Screenshots/5-customer-type-comparison.png)
+
+
 
 ## Author
 
