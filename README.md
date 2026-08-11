@@ -52,6 +52,12 @@ The scripts cover:
 
 - Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
 
+## Presentation Queries and Screenshots
+1. Headline KPIs
+   [View the SQL query](sql/5_presentation_queries.sql#L5-L10)
+
+![Headline KPI query result](screenshots/01-headline-kpis.png)
+
 ## Tableau dashboard
 
 [https://public.tableau.com/views/retail_sales_dashboard_17864661943300/RetailSalesPerformanceDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
