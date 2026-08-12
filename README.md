@@ -35,8 +35,8 @@ Using historical sales data, what are the company’s biggest revenue drivers ac
 - Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
 
 ## Recommendations
-1. Prioritise wholesale customer retention and management. Wholesale customers generate a large majority of the business earnings.
-2. Inventory and staffing should be planned around high-demand periods. Historically this is specifically, Tuesday of every week, and seasonally around November with demand for the Kitchen & Dining products further driving sales.
+- Prioritise wholesale customer retention and management. Wholesale customers generate a large majority of the business earnings.
+- Inventory and staffing should be planned around high-demand periods. Historically this is specifically, Tuesday of every week, and seasonally around November with demand for the Kitchen & Dining products further driving sales.
 
 ## Skills demonstrated
 
@@ -45,7 +45,7 @@ Using historical sales data, what are the company’s biggest revenue drivers ac
 - Joins
 - Business analysis
 - MySQL
-- 
+  
 ## Tools used
 
 - MySQL
