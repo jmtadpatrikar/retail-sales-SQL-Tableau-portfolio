@@ -6,53 +6,10 @@ A SQL portfolio project that analyses retail sales data using MySQL.
 
 This project demonstrates practical SQL skills through a retail sales dataset. It covers data cleaning, exploratory analysis, and business-focused queries.
 
-## Dataset
 
-This project uses the [Retail Dataset on Kaggle](https://www.kaggle.com/datasets/matteo2002/retail-dataset).
+## Business Question
+Using historical sales data, what are the company’s biggest revenue drivers across time, product categories, and customer types?
 
-- **Source:** Kaggle
-- **Accessed:** 11 August 2026
-- **Tables used:** `customers`, `products`, `purchases`, and `invoice_items`
-- **Data availability:** The raw dataset is not included in this repository. Download it from Kaggle, then import the files into MySQL before running the SQL scripts.
-- **License:** Refer to the dataset page for its usage terms.
-
-## Tools used
-
-- MySQL
-- MySQL Workbench
-- Tableau Public
-
-## Repository structure
-
-- `sql/` — five SQL scripts used in this project
-- `screenshots/` - dashboard query screenshots
-
-## SQL workflow
-
-What each script covers:
-
-[1_import_and_data_quality.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/1_import_and_data_quality.sql)
-— validates imported tables, checks duplicates and missing values, and verifies invoice totals.
- 
-[2_creating_usable_views.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/2_creating_usable_views.sql)
-— builds cleaned, reusable sales views while preserving the raw data.
-
-[3_business_analysis.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/3_business_analysis.sql)
-— answers questions on sales trends, categories, products, customers, and weekdays.
-
-[4_dashboard_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/4_dashboard_queries.sql)
-— creates Tableau-ready views for KPIs and performance comparisons.
-
-[5_presentation_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/5_presentation_queries.sql)
-— returns the five final result sets used in the dashboard screenshots.
-
-## Skills demonstrated
-
-- Data cleaning/visualisation
-- Aggregations and grouping
-- Joins
-- Business analysis
-- MySQL
 
 ## 📊 Explore the interactive Tableau dashboard
 
@@ -77,10 +34,61 @@ What each script covers:
 
 - Tuesday was the highest-revenue weekday, generating 2,033,255.64 in revenue.
 
+## Recommendations
+1. Prioritise wholesale customer retention and management. Wholesale customers generate a large majority of the business earnings.
+2. Inventory and staffing should be planned around high-demand periods. Historically this is specifically, Tuesday of every week, and seasonally around November with demand for the Kitchen & Dining products further driving sales.
+
+## Skills demonstrated
+
+- Data cleaning/visualisation
+- Aggregations and grouping
+- Joins
+- Business analysis
+- MySQL
+- 
+## Tools used
+
+- MySQL
+- MySQL Workbench
+- Tableau Public
+
+## Dataset
+
+This project uses the [Retail Dataset on Kaggle](https://www.kaggle.com/datasets/matteo2002/retail-dataset).
+
+- **Source:** Kaggle
+- **Accessed:** 11 August 2026
+- **Tables used:** `customers`, `products`, `purchases`, and `invoice_items`
+- **Data availability:** The raw dataset is not included in this repository. Download it from Kaggle, then import the files into MySQL before running the SQL scripts.
+- **License:** Refer to the dataset page for its usage terms.
+
+## Repository structure
+
+- `sql/` — five SQL scripts used in this project
+- `Screenshots/` - dashboard query screenshots
+
+## SQL workflow
+
+What each script covers:
+
+[1_import_and_data_quality.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/1_import_and_data_quality.sql)
+— validates imported tables, checks duplicates and missing values, and verifies invoice totals.
+ 
+[2_creating_usable_views.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/ce986df232bf3bcc7d2244f125de7dac74f6df45/sql/2_creating_usable_views.sql)
+— builds cleaned, reusable sales views while preserving the raw data.
+
+[3_business_analysis.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/3_business_analysis.sql)
+— answers questions on sales trends, categories, products, customers, and weekdays.
+
+[4_dashboard_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/4_dashboard_queries.sql)
+— creates Tableau-ready views for KPIs and performance comparisons.
+
+[5_presentation_queries.sql](https://github.com/jmtadpatrikar/retail-sales-SQL-portfolio/blob/9d6fc280b965baa8b59fc3d1e12c1221d98d5738/sql/5_presentation_queries.sql)
+— returns the five final result sets used in the dashboard screenshots.
+
 
 <details>
 <summary><strong>Supporting SQL results and screenshots</strong></summary>
-
 <br>
 
 #### Headline KPIs
@@ -117,6 +125,7 @@ What each script covers:
 
 [Open the Customer-Type Comparison screenshot](Screenshots/5-customer-type-comparison.png)
 </details>
+
 
 ## How to run the project
 
