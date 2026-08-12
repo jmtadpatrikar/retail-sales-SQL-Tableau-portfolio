@@ -1,7 +1,7 @@
 /* Retail Sales Portfolio Project
 File 5: Presentation Queries */
 
--- Slide/Screenshot 1 - Headline KPIs
+-- Screenshot 1 - Headline KPIs
 SELECT 
 	total_revenue,
     total_units,
@@ -9,7 +9,7 @@ SELECT
     avg_invoice_value
 FROM kpi_dashboard;
 
--- Slide/Screenshot 2 - Monthly Sales Trends
+-- Screenshot 2 - Monthly Sales Trends
 SELECT 
 	sales_month,
     total_revenue,
@@ -18,7 +18,7 @@ SELECT
 FROM monthly_trends_dash
 ORDER BY sales_month;
 
--- Slide/Screenshot 3 - Category Performance
+-- Screenshot 3 - Category Performance
 SELECT 
 	category,
     category_revenue,
@@ -27,7 +27,7 @@ SELECT
 FROM category_performance_dash
 ORDER BY category_revenue DESC;
 
--- Slide/Screenshot 4 - Product Performance
+-- Screenshot 4 - Product Performance
 SELECT 
 	product_id,
     item,
@@ -37,7 +37,7 @@ SELECT
 FROM product_performance_dash
 ORDER BY total_revenue DESC;
 
--- Slide/Screenshot 5 - Customer Type Comparison
+-- Screenshot 5 - Customer Type Comparison
 SELECT 
 	customer_type,
     total_revenue,
